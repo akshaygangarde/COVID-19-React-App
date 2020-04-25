@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/COVID-19-React-App/static/css/main.1feb02a5.chunk.css",
+    "main.js": "/COVID-19-React-App/static/js/main.ad5ce036.chunk.js",
+    "main.js.map": "/COVID-19-React-App/static/js/main.ad5ce036.chunk.js.map",
+    "runtime-main.js": "/COVID-19-React-App/static/js/runtime-main.e30055a4.js",
+    "runtime-main.js.map": "/COVID-19-React-App/static/js/runtime-main.e30055a4.js.map",
+    "static/js/2.944cc076.chunk.js": "/COVID-19-React-App/static/js/2.944cc076.chunk.js",
+    "static/js/2.944cc076.chunk.js.map": "/COVID-19-React-App/static/js/2.944cc076.chunk.js.map",
+    "index.html": "/COVID-19-React-App/index.html",
+    "precache-manifest.7b0a063c019627a8d64e0ac5154b95f6.js": "/COVID-19-React-App/precache-manifest.7b0a063c019627a8d64e0ac5154b95f6.js",
+    "service-worker.js": "/COVID-19-React-App/service-worker.js",
+    "static/css/main.1feb02a5.chunk.css.map": "/COVID-19-React-App/static/css/main.1feb02a5.chunk.css.map",
+    "static/js/2.944cc076.chunk.js.LICENSE.txt": "/COVID-19-React-App/static/js/2.944cc076.chunk.js.LICENSE.txt",
+    "static/media/image.png": "/COVID-19-React-App/static/media/image.d7265326.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e30055a4.js",
+    "static/js/2.944cc076.chunk.js",
+    "static/css/main.1feb02a5.chunk.css",
+    "static/js/main.ad5ce036.chunk.js"
+  ]
+}
